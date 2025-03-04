@@ -1,5 +1,6 @@
-package com.pedro.store;
+package com.pedro.store.services;
 
+import com.pedro.store.services.PaymentService;
 import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Service;
 

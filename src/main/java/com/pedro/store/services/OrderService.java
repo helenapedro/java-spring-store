@@ -1,8 +1,7 @@
-package com.pedro.store;
+package com.pedro.store.services;
 
-import org.springframework.beans.factory.annotation.Autowired;
+import com.pedro.store.services.PaymentService;
 import org.springframework.beans.factory.annotation.Qualifier;
-import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Service;
 
 @Service

@@ -1,4 +1,4 @@
-package com.pedro.store;
+package com.pedro.store.services;
 
 import org.springframework.stereotype.Service;
 
